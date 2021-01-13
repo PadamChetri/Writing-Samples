@@ -1,4 +1,4 @@
-dding content to this file.
+Adding content to this file.
 
 List of guest
 
@@ -6,7 +6,7 @@ List of guest
 List of VIPs
 
 
-List of family
+List of parents
 
 
 End of the list...
